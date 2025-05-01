@@ -89,3 +89,9 @@ file_picker: ^6.1.1
 This project is private and developed for internal use. Contact the owner for reuse or contributions.
 
 ---
+
+## TODO
+1. Allow multiple tabs in create invoice page
+2. Add customer to database
+3. Allow to search customer while creating invoice
+4. Allow edit of invoice
